@@ -36,3 +36,48 @@ The dataset includes information such as:
 
 ## 👤 Author
 Veronica James
+
+
+
+# E-Commerce Sales Analysis (Power BI Project)
+
+## 📊 Project Overview
+This project focuses on analyzing e-commerce sales data to understand business performance, customer behavior, and revenue trends. The dashboard provides insights that support data-driven decision-making.
+
+## 🎯 Objectives
+- Analyze overall sales performance
+- Identify top-selling products and categories
+- Understand customer purchasing behavior
+- Track revenue trends over time
+
+## 🛠 Tools Used
+- Power BI
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+
+## 📈 Key Insights
+- Certain product categories generate the highest revenue
+- Sales trends fluctuate across different time periods
+- Customer purchase patterns reveal repeat buying behavior
+
+## 📁 Dataset
+The dataset includes:
+- Order details
+- Product categories
+- Sales and revenue
+- Customer information
+
+## 📊 Dashboard Features
+- Sales overview (total revenue, orders, profit)
+- Product performance analysis
+- Time-based trends (monthly/weekly sales)
+- Interactive filters for deeper insights
+
+## 💡 What I Learned
+- Creating business-focused dashboards
+- Using Power BI for sales analysis
+- Identifying trends and patterns in e-commerce data
+
+## 👤 Author
+Veronica James
